@@ -20,7 +20,7 @@ app.use(cors())
 app.use(bodyParser.json());
 
 
-app.use(express.static(__dirname + '/germanium/HTML'));
+app.use(express.static(__dirname + '/HTML'));
 
 app.listen(process.env.PORT || 3000, ()=> {
 	console.log(`app is running on port ${process.env.PORT}`);
