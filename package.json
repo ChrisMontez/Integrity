@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ChrisMontez/germanium/issues"
   },
-  "homepage": "https://github.com/ChrisMontez/germanium#readme"
+  "homepage": "https://github.com/ChrisMontez/germanium#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
