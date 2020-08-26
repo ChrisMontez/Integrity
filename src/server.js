@@ -23,6 +23,14 @@ app.use(express.static(path.join(__dirname, '../HTML')));
 
 // app.use(express.json());
 
+// app.get('', (req, res) => {
+// 	res.render()
+// }
+
+app.get('/', (req, res) => {
+	res.sendFile('index1.html', {root:path.join(__dirname, '../HTML')});
+});
+
 
 // app.get('/', (req, res) => {
 // 	res.sendFile(path.join(__dirname, 'views', '..index1.html'));
