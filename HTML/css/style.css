@@ -522,6 +522,7 @@ span, a, a:hover {
   font-weight: 800;
   text-transform: uppercase;
   margin-bottom: 50px;
+  text
 }
 .hero2 .why-us .feat {
   margin-bottom: 30px;
@@ -597,6 +598,25 @@ span, a, a:hover {
   margin-bottom: 15px;
 }
 .services2 .item h6 {
+  font-size: 16px;
+  font-weight: 700;
+  margin-bottom: 15px;
+}
+
+.services3 .item {
+  margin-bottom: 30px;
+  -webkit-box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.05);
+          box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.05);
+}
+.services3 .item .cont {
+  padding: 30px;
+}
+.services3 .item .icon {
+  font-size: 40px;
+  color: #10a3a6;
+  margin-bottom: 15px;
+}
+.services3 .item h6 {
   font-size: 16px;
   font-weight: 700;
   margin-bottom: 15px;
