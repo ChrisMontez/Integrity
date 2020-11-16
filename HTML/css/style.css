@@ -1115,21 +1115,21 @@ span, a, a:hover {
   right: -70px;
 }
 .testimonials .client-area .author {
-  width: 100px;
-  height: 100px;
+  width: 250px;
+  height: 250px;
   border-radius: 50%;
   overflow: hidden;
   margin: 0 auto 15px;
 }
 .testimonials .client-area h6 {
   font-weight: 600;
-  font-size: 14px;
+  font-size: 20px;
   text-transform: uppercase;
   letter-spacing: 1px;
   margin-bottom: 5px;
 }
 .testimonials .client-area span {
-  font-size: 12px;
+  font-size: 18px;
   letter-spacing: 1px;
   color: #10a3a6;
 }
