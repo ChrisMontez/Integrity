@@ -89,8 +89,8 @@ $(function() {
         responsiveClass:true,
         responsive:{
             0:{
-                margin: 10,
-                items:3
+                // margin: 10,
+                items: 4
             },
             600:{
                 items:4
