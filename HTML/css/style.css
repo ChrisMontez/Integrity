@@ -1151,7 +1151,7 @@ span, a, a:hover {
 }
 .clients img {
   -webkit-filter: grayscale(100%);
-  filter: grayscale(100%);
+  filter: grayscale(1%);
   -webkit-transition: all .5s;
   transition: all .5s;
 }
