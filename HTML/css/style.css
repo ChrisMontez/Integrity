@@ -1104,7 +1104,7 @@ span, a, a:hover {
   background-repeat: repeat-x;
 }
 .testimonials .client-area {
-  margin-bottom: 30px;
+  margin-bottom: 5px;
 }
 .testimonials .client-area .img {
   display: inline-block;
@@ -1137,11 +1137,14 @@ span, a, a:hover {
 }
 .testimonials .client-area span {
   font-size: 18px;
+  font-weight: 500;
   letter-spacing: 1px;
   color: #10a3a6;
+   margin-bottom: 50px;
 }
 .testimonials p {
-  margin-bottom: 15px;
+  margin-bottom: 50px;
+  font-weight: 700;
 }
 
 .clients {
@@ -1165,6 +1168,9 @@ span, a, a:hover {
 .clients img:hover {
   -webkit-filter: none;
   filter: none;
+}
+.clients h3 {
+
 }
 
 /* ----------------------------------------------------------------
