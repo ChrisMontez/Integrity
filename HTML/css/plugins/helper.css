@@ -871,7 +871,7 @@ h1, h2, h3, h4, h5, h6 {
   top: 12px;
   left: 15px;
   filter: blur(4px);
-  background: #000;
+  background: #10a3a6;
   border-radius: 50%;
   transform: translateX(0);
   animation: dot 3s infinite;
@@ -889,7 +889,7 @@ h1, h2, h3, h4, h5, h6 {
   height: 16px;
   margin-left: 16px;
   filter: blur(4px);
-  background: #000;
+  background:  #10a3a6;
   border-radius: 50%;
 }
 @-moz-keyframes dot {
