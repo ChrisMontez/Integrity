@@ -241,10 +241,12 @@ span, a, a:hover {
   z-index: 1;
   opacity: .4;
 }
+/*Changes bg color*/
 .butn:after {
   -webkit-transition-delay: 0s;
           transition-delay: 0s;
-  background: #fff;
+  background: #15cbcf;
+  border-color: #15cbcf;
   opacity: 1;
 }
 .butn:hover:after {
@@ -254,10 +256,10 @@ span, a, a:hover {
 .butn-bg {
   background: #10a3a6;
   border-color: #10a3a6;
-  color: #fff;
+  color: #10a3a6;
 }
 .butn-bg:hover span {
-  color: #10a3a6;
+  color: #fff;
 }
 
 .butn-light {
@@ -267,7 +269,7 @@ span, a, a:hover {
   background: #10a3a6;
 }
 .butn-light:hover span {
-  color: #fff;
+  color: #15cbcf;
 }
 .butn-light span {
   color: #10a3a6;
