@@ -409,6 +409,8 @@ span, a, a:hover {
   width: 300px;
 }
 
+
+
 /* ----------------------------------------------------------------
      [ End Navbar ]
 -----------------------------------------------------------------*/
@@ -417,21 +419,24 @@ span, a, a:hover {
 -----------------------------------------------------------------*/
 .header {
   min-height: 100vh;
+
 }
 .header .caption .o-hidden {
   display: inline-block;
 }
 .header .caption h4 {
-  font-size: 22px;
-  font-weight: 400;
+  font-size: 20px;
+  font-weight: 500;
   letter-spacing: 4px;
-  margin-bottom: 20px;
+  margin-bottom: 30px;
   -webkit-animation-delay: .2s;
           animation-delay: .2s;
 }
 .header .caption h1 {
-  font-size: 55px;
+  font-size: 50px;
   font-weight: 900;
+  letter-spacing: 1px;
+  margin-bottom: 5px;
   text-transform: uppercase;
   line-height: 1.4;
   -webkit-animation-delay: .6s;
@@ -1351,6 +1356,13 @@ span, a, a:hover {
   margin-left: 15px;
   display: inline-block;
 }
+.footer .info .premier h6 {
+  font-size: 12px;
+  line-height: 1.5;
+  margin-left: 29px;
+  
+}
+
 .footer .info h6 span {
   font-weight: 600;
 }
@@ -1385,6 +1397,7 @@ span, a, a:hover {
   letter-spacing: 2px;
   text-transform: uppercase;
 }
+
 
 /* ----------------------------------------------------------------
      [ End Footer ]
