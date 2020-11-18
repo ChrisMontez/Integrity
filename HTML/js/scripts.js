@@ -74,7 +74,7 @@ $(function() {
         items: 1,
         margin: 15,
         mouseDrag:false,
-        autoplay:false,
+        autoplay:true,
         smartSpeed:500
     });
 
