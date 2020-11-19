@@ -188,4 +188,38 @@ function initMap() {
         , map : map
 
     });
+
+    map.addListener("center_changed", () => {
+    // 3 seconds after the center of the map has changed, pan back to the
+    // marker.
+    window.setTimeout(() => {
+      map.panTo(marker.getPosition());
+    }, 3000);
+  });
+
+
+    marker.addListener("click", () => {
+ 
+    map.setCenter(marker.getPosition());
+  });
+
+
+     marker.addListener("click", () => {
+ 
+    map.setCenter(marker.getPosition());
+  });
+
+  //    (function(permalink) {
+  //   google.maps.event.addListener(marker, 'click', function() {self.location.href = permalink;});
+  // })("google.com");
+
+   marker.addListener("click", () => {
+
+    window.open("https://www.google.com/maps/dir/?api=1&destination=29.530090,-98.591450");
+
+  });
+
+
+
+
   }
