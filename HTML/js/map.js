@@ -184,7 +184,7 @@ function initMap() {
 
     var marker = new google.maps.Marker({
         position: new google.maps.LatLng(29.530090, -98.591450)
-        , title: 'ASL'
+        , title: 'Integrity HQ'
         , map : map
 
     });
