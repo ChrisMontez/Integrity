@@ -73,7 +73,7 @@ $(function() {
         loop:true,
         items: 1,
         margin: 15,
-        mouseDrag:false,
+        mouseDrag:true,
         autoplay:true,
         smartSpeed:500
     });
