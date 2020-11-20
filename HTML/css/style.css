@@ -1154,10 +1154,10 @@ span, a, a:hover {
 }
 .testimonials h3 {
   font-weight: 600;
-  font-size: 17px;
+  font-size: 19px;
   margin-bottom: 50px;
   letter-spacing: 1px;
-  text-decoration: underline !important;
+  text-decoration: underline;
 }
 
 .clients {
