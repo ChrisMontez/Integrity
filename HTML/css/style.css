@@ -1133,6 +1133,7 @@ span, a, a:hover {
   overflow: hidden;
   margin: 0 auto 15px;
 }
+
 .testimonials .client-area h6 {
   font-weight: 600;
   font-size: 20px;
@@ -1148,8 +1149,15 @@ span, a, a:hover {
    margin-bottom: 50px;
 }
 .testimonials p {
-  margin-bottom: 50px;
+  margin-bottom: 8px;
   font-weight: 700;
+}
+.testimonials h3 {
+  font-weight: 600;
+  font-size: 17px;
+  margin-bottom: 50px;
+  letter-spacing: 1px;
+  text-decoration: underline !important;
 }
 
 .clients {
