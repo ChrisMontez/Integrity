@@ -353,6 +353,10 @@ span, a, a:hover {
 /* ----------------------------------------------------------------
      [ 08 Start About ]
 -----------------------------------------------------------------*/
+.about {
+background: #f6f7f7;
+  
+}
 .about .cont h6 {
   font-size: 13px;
   text-transform: uppercase;
