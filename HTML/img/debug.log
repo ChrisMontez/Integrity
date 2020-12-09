@@ -1,2 +1,4 @@
 [1205/015430.181:INFO:CONSOLE(1)] "Long rAF frame-time", source: file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-rich-tooltips/build/external.js (1)
 [1205/020054.191:INFO:CONSOLE(1)] "Long rAF frame-time", source: file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-rich-tooltips/build/external.js (1)
+[1205/025054.094:INFO:CONSOLE(1)] "Hiding message due to error: Could not find the screen of the target", source: file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-butler/build/spaces.js (1)
+[1205/032043.307:ERROR:media_internals.cc(112)] Cannot get RenderProcessHost
