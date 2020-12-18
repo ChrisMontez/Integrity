@@ -1,3 +1,3 @@
 # germanium
 
-<img src="HTML/img/hologo.png" width="250">
+<img src="HTML/img/hologo.png" width="400">
