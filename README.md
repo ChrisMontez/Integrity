@@ -17,6 +17,8 @@
 
 
 
+## :bulb: Work to be done
+* GZIP Compression
 
 
 
