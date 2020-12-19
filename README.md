@@ -1,5 +1,6 @@
 # germanium
 
+## :wrench: Objective: 
 
 
 
