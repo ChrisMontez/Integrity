@@ -10,7 +10,7 @@
 
 ## :wrench: Progress
 <p align="center" >
-	<a href = 'https://www.integrityrealtors.org/' target='_blank'>
+	<a href = 'https://www.integrityrealtors.org/'  target="_blank" rel="noopener noreferrer">
   	<img src="HTML/img/hologo.png" width="400" />
 	</a>
 </p>
