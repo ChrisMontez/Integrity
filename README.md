@@ -1,9 +1,14 @@
 # germanium
 
-## :wrench: Objective: 
+## :thought_balloon: Objective: Build a scalable website for a real-estate business 
+Build a scalable website for a real-estate business 
 
 
 
+
+
+
+## :wrench: Progress
 <p align="center" >
 	<a href = 'https://www.integrityrealtors.org/'>
   	<img src="HTML/img/hologo.png" width="400" />
