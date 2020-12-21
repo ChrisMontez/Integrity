@@ -1,4 +1,4 @@
-# germanium
+
 
 ## :thought_balloon: Objective
 * Build a scalable website for a real-estate business 
