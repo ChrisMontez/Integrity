@@ -1,6 +1,6 @@
 
 
-## :thought_balloon: Objective
+##  Objective
 * Build a scalable website for a real-estate business 
 
 
@@ -8,7 +8,7 @@
 
 
 
-## :wrench: Progress
+##  Progress
 <p align="center" >
 	<a href = 'https://www.integrityrealtors.org/'>
   	<img src="HTML/img/hologo.png" width="400" />
@@ -17,7 +17,7 @@
 
 
 
-## :bulb: Work to be done
+##  Work to be done
 * GZIP Compression
 
 
